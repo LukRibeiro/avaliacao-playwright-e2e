@@ -17,19 +17,18 @@ Automatizar cenários de teste simulando a navegação e interações de um usu�
 
 avaliacao-playwright-e2e/
 ├── tests/
-│ ├── login.spec.js
-│ └── checkout.spec.js
-├── playwright-report/ # ignorado no Git
-├── test-results/ # ignorado no Git
+│   ├── login.spec.js
+│   └── checkout.spec.js
+├── playwright-report/     # ignorado no Git
+├── test-results/          # ignorado no Git
 ├── package.json
 ├── .gitignore
 └── README.md
 
-
 ## 🚀 Como Executar os Testes
 
-1. Instale as dependências:
-```bash
+1 Instale as dependências:
+
 npm install
 
 2 Execute os testes :npx playwright test
