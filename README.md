@@ -10,6 +10,7 @@ Automatizar cenários de teste simulando a navegação e interações de um usu�
 
 - Node.js
 - Playwright Test
+- Cucumber
 - JavaScript
 - HTML Report (Relatório visual dos testes)
 
